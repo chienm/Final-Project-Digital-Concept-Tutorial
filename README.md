@@ -1,6 +1,8 @@
 ## Final Project: Digital Concept Tutorial
-# Binary and Decimal Value
 
+## [Binary and Decimal Value](README.md)
+
+# Home
 ---
 
 This repository will teach about binary and decimal value, along side how to convert from binary to decimal values and from decimal values to binary.
