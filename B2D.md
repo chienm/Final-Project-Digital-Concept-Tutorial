@@ -1,5 +1,6 @@
-
 ## Final Project: Digital Concept Tutorial
+
+#### By Michael Chien
 
 # [Binary and Decimal Value](README.md)
 
