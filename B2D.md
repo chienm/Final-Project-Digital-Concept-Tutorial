@@ -16,9 +16,20 @@ The following example is a binary
 
 ### 100101
 
-1. Find the digits where the values are equal to 1. So that would mean that the first, third, and sixth digit from the right since those digits have a value of 1.
+1. Find the digits where the values are equal to 1. So that would mean that the first, third, and sixth digit from the right since those digits have a value of 1
 2. Find the wight of the digits that have a value of 1.
-* 
+
+> * The first digit has a weight of 2^0, or the weight of 1.
+>
+> * The first digit has a weight of 2^2, or the weight of 4.
+>
+> * The first digit has a weight of 2^5, or the weight of 32.
+
+3. Add the weight of the digits that have a value of 1.
+
+> So 1+4+32=37.
+
+So the binary value of 100101 has a decimal value of **37**.
 
 ---
 
