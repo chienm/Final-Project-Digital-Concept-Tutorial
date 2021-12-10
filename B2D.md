@@ -8,7 +8,7 @@
 
 ## Binary to Decimal Values
  
-To find the decimal values of any given binary number, add up the weight of all of the digits where the value is equal to 1
+To find the decimal values of any given binary number, add up the weight of all of the digits where the value is equal to 1.
 
 ## Example of Converting from Binary to Decimal
 
