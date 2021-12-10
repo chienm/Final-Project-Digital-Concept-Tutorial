@@ -2,7 +2,7 @@
 
 #### By Michael Chien
 
-## [Binary and Decimal Value](README.md)
+# [Binary and Decimal Value](README.md)
 
 ---
 
