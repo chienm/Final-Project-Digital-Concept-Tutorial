@@ -20,4 +20,4 @@ This repository will teach about binary and decimal value, along side how to con
 
 ## Video Version
 
-### [Youtube](https://youtu.be/b47QnQoFk50)
+### [Midterm Project - Binary and Decimal Value](https://youtu.be/b47QnQoFk50)
