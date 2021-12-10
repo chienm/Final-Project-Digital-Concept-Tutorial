@@ -8,7 +8,7 @@ This repository will teach about binary and decimal value, along side how to con
 
 ### [What is Binary](Binary.md)
 
-### [What is Deciaml Values](Decimal.md)
+### [What are Deciaml Values](Decimal.md)
 
 ### [How to Convert from Binary to Decimal Values](B2D.md)
 
