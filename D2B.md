@@ -46,6 +46,6 @@ So, the decimal value of 323 would have a binary value of **101000011**.
 
 #### [What are Deciaml Values](Decimal.md)
 
-#### [How to Convert from Decimal Values to Binary](D2B.md)
+#### [How to Convert from Binary to Decimal Values](B2D.md)
 
 #### [Video Tutorial](https://youtu.be/b47QnQoFk50)
