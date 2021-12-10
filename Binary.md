@@ -18,3 +18,13 @@ So this would mean that the first digit from the right would have a value of 2^0
 The following example is a binary number equal to the value of 83.
 
 ### 1010011
+
+---
+
+#### [What are Deciaml Values](Decimal.md)
+
+#### [How to Convert from Binary to Decimal Values](B2D.md)
+
+#### [How to Convert from Decimal Values to Binary](D2B.md)
+
+#### [Video Tutorial](https://youtu.be/b47QnQoFk50)
