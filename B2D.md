@@ -33,9 +33,9 @@ So the binary value of 100101 has a decimal value of **37**.
 
 ---
 
-#### [What are Deciaml Values](Decimal.md)
+#### [What is Binary?](Binary.md)
 
-#### [How to Convert from Binary to Decimal Values](B2D.md)
+#### [What are Deciaml Values](Decimal.md)
 
 #### [How to Convert from Decimal Values to Binary](D2B.md)
 
